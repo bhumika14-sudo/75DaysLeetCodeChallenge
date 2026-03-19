@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
