@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
