@@ -9,25 +9,25 @@ public:
 
         for(int i=0;i<n;i++){
             if(i>0 && nums[i]==nums[i-1]) continue;
-            int left = i+1;
-            int right = n-1;
+            int l = i+1;
+            int r = n-1;
 
-            while(left<right){
-                int sum = nums[i] + nums[left] + nums[right];
+            while(l<r){
+                int sum = nums[i] + nums[l] + nums[r];
 
                 if(sum == 0){
-                  ans.push_back({nums[i],nums[left],nums[right]});
+                  ans.push_back({nums[i],nums[l],nums[r]});
 
-                  while(left<right && nums[left]==nums[left+1]) left++;
-                  while(left<right && nums[right]==nums[right-1])right--;
-                  left++;
-                  right--;
+                  while(l<r && nums[l]==nums[l+1]) l++;
+                  while(l<r && nums[r]==nums[r-1]) r--;
+                  l++;
+                  r--;
 
                 }else if(sum>0){
-                  right--;
+                  r--;
                 }
                 else{
-                  left++;
+                  l++;
                 }
             }
         }
