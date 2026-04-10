@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0739-daily-temperatures) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
 | ------- |
