@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2360-longest-cycle-in-a-graph) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2360-longest-cycle-in-a-graph) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
@@ -209,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
