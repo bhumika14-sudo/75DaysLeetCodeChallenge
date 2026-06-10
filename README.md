@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0739-daily-temperatures) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
 ## Linked List
 |  |
