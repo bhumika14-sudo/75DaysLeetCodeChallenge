@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1922-count-good-numbers](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1922-count-good-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
 ## Sliding Window
 |  |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
