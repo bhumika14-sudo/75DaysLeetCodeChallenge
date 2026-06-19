@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0904-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
