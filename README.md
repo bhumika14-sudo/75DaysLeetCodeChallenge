@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
