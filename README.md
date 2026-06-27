@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
@@ -282,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0450-delete-node-in-a-bst) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
