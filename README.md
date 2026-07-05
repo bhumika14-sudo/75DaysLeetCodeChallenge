@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0125-valid-palindrome) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Math
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
 | [1922-count-good-numbers](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
