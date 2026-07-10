@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0347-top-k-frequent-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
