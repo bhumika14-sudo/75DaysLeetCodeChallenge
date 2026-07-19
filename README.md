@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0075-sort-colors) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0120-triangle) |
