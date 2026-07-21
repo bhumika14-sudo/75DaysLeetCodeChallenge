@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0242-valid-anagram) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0994-rotting-oranges) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0207-course-schedule](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0226-invert-binary-tree) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
 ## Binary Search Tree
 |  |
 | ------- |
