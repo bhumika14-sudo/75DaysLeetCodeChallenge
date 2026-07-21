@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1470-shuffle-the-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
