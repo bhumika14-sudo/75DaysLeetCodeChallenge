@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0056-merge-intervals) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0142-linked-list-cycle-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0070-climbing-stairs) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0739-daily-temperatures) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
