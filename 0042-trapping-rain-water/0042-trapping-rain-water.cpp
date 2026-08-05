@@ -9,20 +9,20 @@ public:
 
         while(i < j){
             if(height[i] <= height[j]){
-                if(leftMax < height[i]){
+                if(leftMax <= height[i]){
                     leftMax = height[i];
                 }
                 else{
-                    water = leftMax - height[i];
+                    water += leftMax - height[i];
                 }
                 i++;
             }
             else{
-                if(rightMax < height[j]){
+                if(rightMax <= height[j]){
                     rightMax = height[j];
                 }
                 else{
-                    water = rightMax - height[j];
+                    water += rightMax - height[j];
                 }
                 j--;
             }
