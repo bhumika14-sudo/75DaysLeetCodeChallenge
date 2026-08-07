@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0238-product-of-array-except-self) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0931-minimum-falling-path-sum) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
