@@ -1,21 +1,47 @@
+// class Solution {
+// public:
+//     int solve(int i, int j, vector<int>& nums){
+//         int left = 0;
+//         int right = nums.size()-1;
+
+//         if(i == j){
+//             return nums[i];
+//         }
+
+//         int takeL = nums[i] - solve(i+1, j, nums);
+//         int takeR = nums[j] - solve(i, j-1, nums);
+//         return max(takeL, takeR); // curr player choose the better option 
+//     }
+//     bool predictTheWinner(vector<int>& nums) {
+//         int n = nums.size();
+//         int diff = solve(0, nums.size()-1, nums);
+//         return (diff >= 0);
+//     }
+// };
+
 class Solution {
 public:
-    int solve(int i, int j, vector<int>& nums){
-        int left = 0;
-        int right = nums.size()-1;
-
-        if(i == j){
+    int solve(int i, int j, vector<int>& nums, vector<vector<int>>& dp) {
+        if (i == j) {
             return nums[i];
         }
 
-        int takeL = nums[i] - solve(i+1, j, nums);
-        int takeR = nums[j] - solve(i, j-1, nums);
-        return max(takeL, takeR); // curr player choose the better option 
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
+
+        // Current player takes left
+        int takeL = nums[i] - solve(i + 1, j, nums, dp);
+        // Current player takes right
+        int takeR = nums[j] - solve(i, j - 1, nums, dp);
+        return dp[i][j] = max(takeL, takeR);
     }
+
     bool predictTheWinner(vector<int>& nums) {
         int n = nums.size();
-        int diff = solve(0, nums.size()-1, nums);
-        return (diff >= 0);
+        vector<vector<int>> dp(n, vector<int>(n, -1));
+        int diff = solve(0, n - 1, nums, dp);
+        return diff >= 0;
     }
 };
 
@@ -23,7 +49,6 @@ public:
 // class Solution {
 // public:
 //     bool solve(int left, int right, vector<int>& nums, int p1, int p2, bool turn) {
-
 //         // 1. No elements left -> check final scores
 //         if (left > right) {
 //             return p1 >= p2;
