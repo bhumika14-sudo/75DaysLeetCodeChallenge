@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1922-count-good-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
 ## Sliding Window
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -396,4 +400,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0239-sliding-window-maximum) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
