@@ -1,28 +1,51 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        queue<pair<string,int>> q;
-        q.push({beginWord, 1});
-        unordered_set<string> st(wordList.begin(), wordList.end());
-        st.erase(beginWord);
+        // Store all words for O(1) lookup
+        unordered_set<string> words(wordList.begin(), wordList.end());
 
-        while(!q.empty()){
-            string word = q.front().first;
-            int steps = q.front().second;
-            q.pop();
-            if(word == endWord) return steps;
+        // If end word doesn't exist, transformation is impossible
+        if (!words.count(endWord))
+            return 0;
 
-            for(int i=0; i<word.size(); i++){
-                char original = word[i];
-                for(char ch = 'a'; ch<='z'; ch++){
-                    word[i] = ch;
-                    if(st.find(word) != st.end()){
-                        st.erase(word);
-                        q.push({word, steps+1});
+        queue<string> q;
+        q.push(beginWord);
+        // Mark beginWord as visited
+        words.erase(beginWord);
+        int level = 1;
+        while (!q.empty()) {
+            int size = q.size();
+            // Process all words at the current transformation level
+            while (size--) {
+                string word = q.front();
+                q.pop();
+
+                // If we reached the target word
+                if (word == endWord)
+                    return level;
+
+                // Try changing every character
+                for (int i = 0; i < word.size(); i++) {
+                    char original = word[i];
+
+                    // Replace with every lowercase letter
+                    for (char ch = 'a'; ch <= 'z'; ch++) {
+                        if (ch == original)
+                            continue;
+                        word[i] = ch;
+
+                        // Valid transformation found
+                        if (words.count(word)) {
+                            q.push(word);
+                            words.erase(word); // mark visited
+                        }
                     }
+                    // Restore original character
+                    word[i] = original;
                 }
-                word[i] = original;
             }
+            // One transformation level completed
+            level++;
         }
         return 0;
     }
