@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0283-move-zeroes) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0322-coin-change) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0994-rotting-oranges) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1020-number-of-enclaves) |
