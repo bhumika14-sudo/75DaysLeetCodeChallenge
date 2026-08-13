@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
+| [1695-maximum-erasure-value](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1695-maximum-erasure-value) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
+| [1695-maximum-erasure-value](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1695-maximum-erasure-value) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1695-maximum-erasure-value](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1695-maximum-erasure-value) |
 ## Stack
 |  |
 | ------- |
