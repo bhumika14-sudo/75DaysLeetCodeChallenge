@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1695-maximum-erasure-value) |
 ## Stack
 |  |
