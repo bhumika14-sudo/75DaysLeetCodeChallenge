@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
 | [1695-maximum-erasure-value](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1695-maximum-erasure-value) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1695-maximum-erasure-value) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Stack
 |  |
 | ------- |
