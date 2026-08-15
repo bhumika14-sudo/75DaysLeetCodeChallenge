@@ -11,38 +11,27 @@
  */
 class Solution {
 public:
+    void solve(TreeNode* root, int row, int col, map<int, map<int, multiset<int>>>& mp){
+        if(!root) return;
+        mp[col][row].insert(root->val);
+        solve(root->left, row+1, col-1, mp);
+        solve(root->right, row+1, col+1, mp);
+    }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
+        if(!root) return {};
         map<int, map<int, multiset<int>>> mp;
-        queue<pair<TreeNode*, pair<int,int>>> q;
-
-        q.push({root, {0,0}}); // node, {row,col};
-        
-        while(!q.empty()){
-            auto curr = q.front();
-            q.pop();
-
-            TreeNode* node = curr.first;
-            int row = curr.second.first;
-            int col = curr.second.second;
-
-            mp[col][row].insert(node->val);
-
-            if(node->left){
-                q.push({node->left, {row+1, col-1}});
-            }
-
-            if(node->right){
-                q.push({node->right, {row+1, col+1}});
-            }
-        }
+        solve(root, 0, 0, mp);  
         vector<vector<int>> ans;
-        for(auto &col : mp){
+
+        for(auto it : mp){
             vector<int> temp;
-            for(auto &row : col.second){
-                temp.insert(temp.end(), row.second.begin(), row.second.end());
+            for(auto row : it.second){
+                for(int val : row.second){
+                    temp.push_back(val);
+                }
             }
             ans.push_back(temp);
-        }  
+        }
         return ans;
     }
 };
