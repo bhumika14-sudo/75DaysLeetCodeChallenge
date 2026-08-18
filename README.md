@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0056-merge-intervals) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
 ## Binary Search Tree
 |  |
