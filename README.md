@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0242-valid-anagram) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0198-house-robber) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
