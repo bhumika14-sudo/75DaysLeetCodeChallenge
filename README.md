@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0242-valid-anagram) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0283-move-zeroes) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
@@ -456,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0543-diameter-of-binary-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
