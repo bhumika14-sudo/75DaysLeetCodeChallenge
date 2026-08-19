@@ -463,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0141-linked-list-cycle) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
