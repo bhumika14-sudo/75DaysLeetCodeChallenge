@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1695-maximum-erasure-value](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1695-maximum-erasure-value) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Math
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0739-daily-temperatures) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Matrix
 |  |
 | ------- |
