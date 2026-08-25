@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1049-last-stone-weight-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1514-path-with-maximum-probability) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Breadth-First Search
@@ -478,4 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0056-merge-intervals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
