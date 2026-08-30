@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0368-largest-divisible-subset) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0283-move-zeroes) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
 ## Quickselect
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1049-last-stone-weight-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
