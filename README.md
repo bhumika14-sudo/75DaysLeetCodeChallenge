@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
+| [1768-merge-strings-alternately](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
