@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1695-maximum-erasure-value) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Array
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1631-path-with-minimum-effort) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1695-maximum-erasure-value) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
