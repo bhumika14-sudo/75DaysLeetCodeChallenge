@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0876-middle-of-the-linked-list) |
