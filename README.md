@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1048-longest-string-chain) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1768-merge-strings-alternately) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1922-count-good-numbers](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1922-count-good-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2364-count-number-of-bad-pairs) |
 ## Sliding Window
@@ -500,4 +502,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0229-majority-element-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
