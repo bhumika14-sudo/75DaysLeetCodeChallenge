@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0053-maximum-subarray) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0155-min-stack) |
@@ -535,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
