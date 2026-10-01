@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0127-word-ladder) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
