@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Shortest Path
 |  |
@@ -549,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0032-longest-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
