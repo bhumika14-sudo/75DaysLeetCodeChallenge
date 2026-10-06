@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/1922-count-good-numbers) |
 ## Backtracking
