@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0200-number-of-islands) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumika14-sudo/Leetcode-75-Days-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Shortest Path
 |  |
